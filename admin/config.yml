@@ -1,7 +1,7 @@
 backend:
   name: github
   base_url: https://suresh-issue-82.dcycleproject.org
-  auth_endpoint: /auth/github/repo/69556fbea1e4c918b851f725
+  auth_endpoint: /auth/github/repo/69557415df31b27a0c783293
   repo: suresh-kumara-gist/test93
   branch: main
 media_folder: static/uploads
